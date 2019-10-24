@@ -25,5 +25,9 @@
     * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.ipynb)
     *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.ipynb)
     * [py檔](https://github.com/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.py)
+* 【未除錯完成】[Week 6 作業：【6】965. Univalued Binary Tree 單值二叉樹](https://github.com/agying/leetcode-practices/tree/master/week6)
+    * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.ipynb)
+    *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.ipynb)
+    * [py檔](https://github.com/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.py)
 
    
