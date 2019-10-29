@@ -2,8 +2,16 @@
 只要是想成為軟體工程師的人，一定都會使用LeetCode來練功，近千題的題目按不同主題和難易度排序，讓每個刷題練習的人鍛鍊自己Coding的能力。
 支援Python、Java、C++等數種語言，加上大家一起討論、分享程式碼的討論區，即使在解題碰到困難的人也可以依自己的想法找到解題的提示，這是LeetCode這麼盛行的理由之一。
 但使用者絕對不只學生、工程師，舉凡Google、矽谷的各種科技公司在招募工程師時，都會在LeetCode上找適合的人選，因此LeetCode是個平台，擁有完整個面向的使用者。
-## 練習LeetCode的動機
-而我針對資料結構，決定在這學期練習Coding的技巧，而寫出的程式碼或是思考的過程，我都會將他作為筆記留存下來，希望除了給未來的自己複習之外，我更期待看到自己的進步，成為可以透過撰寫程式碼來解決問題的人~
+
+# 學期作業專區
+* [HW2](https://github.com/agying/leetcode-practices/tree/master/HW2)
+   * [heap_sort_04154135](https://github.com/agying/leetcode-practices/blob/master/HW2/heap_sort_04154135.py)
+   * [heap_sprt_流程圖]()
+   * [merge_sort_04154135]()
+   * [merge_sort_流程圖]()
+   * [Merge_Sort 和 Heap_Sort 差別]()
+
+
 # 每周練習作業
 * [Week 1 作業：【1】707. Design Linked List](https://github.com/agying/leetcode-practices/tree/master/week1)
     * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week1/%E3%80%901%E3%80%91707.%20Design%20Linked%20List.ipynb)
@@ -25,9 +33,12 @@
     * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.ipynb)
     *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.ipynb)
     * [py檔](https://github.com/agying/leetcode-practices/blob/master/week5/%E3%80%905%E3%80%91148.%20Quick%20Sort.py)
-* 【未除錯完成】[Week 6 作業：【6】965. Univalued Binary Tree 單值二叉樹](https://github.com/agying/leetcode-practices/tree/master/week6)
+* [Week 6 作業：【6】965. Univalued Binary Tree 單值二叉樹](https://github.com/agying/leetcode-practices/tree/master/week6)
     * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.ipynb)
     *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.ipynb)
     * [py檔](https://github.com/agying/leetcode-practices/blob/master/week6/%E3%80%906%E3%80%91965.%20Univalued%20Binary%20Tree%20%E5%96%AE%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A8%B9.py)
-
+* [Week 6-2 Heap Sort：Heap_Sort 堆積排序法](https://github.com/agying/leetcode-practices/tree/master/week6-2%20Heap%20Sort)
+    * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/week6-2%20Heap%20Sort/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
+    *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/week6-2%20Heap%20Sort/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
+    * [py檔](https://github.com/agying/leetcode-practices/blob/master/week6-2%20Heap%20Sort/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.py)
    
