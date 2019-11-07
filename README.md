@@ -6,10 +6,10 @@
 # 學期作業專區
 * [HW2](https://github.com/agying/leetcode-practices/tree/master/HW2)
    * [heap_sort_04154135](https://github.com/agying/leetcode-practices/blob/master/HW2/heap_sort_04154135.py)
-   * [heap_sprt_流程圖]()
-   * [merge_sort_04154135]()
-   * [merge_sort_流程圖]()
-   * [Merge_Sort 和 Heap_Sort 差別]()
+   * [heap_sort_流程圖](https://github.com/agying/leetcode-practices/blob/master/HW2/heap_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+   * [merge_sort_04154135](https://github.com/agying/leetcode-practices/blob/master/HW2/merge_sort_04154135.py)
+   * [merge_sort_流程圖](https://github.com/agying/leetcode-practices/blob/master/HW2/merge_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+   * [Merge_Sort 和 Heap_Sort 差別](https://github.com/agying/leetcode-practices/blob/master/HW2/%E5%90%88%E4%BD%B5%E5%92%8C%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E7%9A%84%E6%AF%94%E8%BC%83.md)
 
 
 # 每周練習作業
@@ -47,8 +47,10 @@
     * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/%E3%80%90Week6-2%E3%80%91%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
     *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week6-2%E3%80%91%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
     * [py檔](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week6-2%E3%80%91%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95/Heap%20Sort%20%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95.py)
+    * [流程圖](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week6-2%E3%80%91%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E6%B3%95/heap_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
-* [Week 7 Merge Sort：Merge_Sort 合併排序法]()
-    * [線上瀏覽ipynb檔]()
-    *  [ipynb檔]()
-    * [py檔]()
+* [Week 7 Merge Sort：Merge_Sort 合併排序法](https://github.com/agying/leetcode-practices/tree/master/%E3%80%90Week7%E3%80%91Merge%20Sort)
+    * [線上瀏覽ipynb檔](https://nbviewer.jupyter.org/github/agying/leetcode-practices/blob/master/%E3%80%90Week7%E3%80%91Merge%20Sort/%E3%80%908%E3%80%91Merge%20Sort%20%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
+    *  [ipynb檔](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week7%E3%80%91Merge%20Sort/%E3%80%908%E3%80%91Merge%20Sort%20%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95.ipynb)
+    * [py檔](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week7%E3%80%91Merge%20Sort/%E3%80%908%E3%80%91Merge%20Sort%20%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95.py)
+    * [流程圖](https://github.com/agying/leetcode-practices/blob/master/%E3%80%90Week7%E3%80%91Merge%20Sort/merge_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
