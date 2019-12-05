@@ -85,3 +85,13 @@ class MyHashSet():
         else:
             return False
 
+
+# ### 參考資料
+# 不參考資料自力完成：`remove()`和`contains`函式
+# * `add()`參考下列頁面的部分程式邏輯作為除錯和靈感
+# * https://leetcode.com/problems/design-hashset/discuss/279957/Python-Chaining
+# * https://leetcode.com/problems/design-hashset/discuss/379193/Python-chaining-hashset-easy-to-understand
+# * https://kknews.cc/code/3mb5eg8.html
+# 
+# 並在stackoverflow提問過，雖未得到回覆，但還是自己摸索出問題所在
+# * https://stackoverflow.com/questions/59181798/add-elements-to-linkedhashset-however-replace-instead
