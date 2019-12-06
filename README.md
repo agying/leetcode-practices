@@ -10,6 +10,15 @@
    * [merge_sort_04154135](https://github.com/agying/leetcode-practices/blob/master/HW2/merge_sort_04154135.py)
    * [merge_sort_流程圖](https://github.com/agying/leetcode-practices/blob/master/HW2/merge_sort_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
    * [Merge_Sort 和 Heap_Sort 差別](https://github.com/agying/leetcode-practices/blob/master/HW2/%E5%90%88%E4%BD%B5%E5%92%8C%E5%A0%86%E7%A9%8D%E6%8E%92%E5%BA%8F%E7%9A%84%E6%AF%94%E8%BC%83.md)
+   
+* [HW3](https://github.com/agying/leetcode-practices/tree/master/HW3)
+  * [binary search tree新增、刪除、查詢、修改功能說明.ipynb](https://github.com/agying/leetcode-practices/blob/master/HW3/binary%20search%20tree%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.ipynb)
+  * [binary_search_tree_04154135.py](https://github.com/agying/leetcode-practices/blob/master/HW3/binary_search_tree_04154135.py)
+  * [binary_search_tree_04154135學習歷程、BST原理.ipy](https://github.com/agying/leetcode-practices/blob/master/HW3/binary_search_tree_04154135%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BST%E5%8E%9F%E7%90%86.ipynb)
+  
+* [HW4](https://github.com/agying/leetcode-practices/tree/master/HW4)
+  * [HashTable流程圖和學習歷程.ipynb](https://github.com/agying/leetcode-practices/blob/master/HW4/HashTable%E6%B5%81%E7%A8%8B%E5%9C%96%E5%92%8C%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
+  * [hash_table_04154135.py](https://github.com/agying/leetcode-practices/blob/master/HW4/hash_table_04154135.py)
 
 
 # 每周練習作業
