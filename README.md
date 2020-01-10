@@ -1,18 +1,11 @@
 # 此Repository目的
 只要是想成為軟體工程師的人，一定都會使用LeetCode來練功，近千題的題目按不同主題和難易度排序，讓每個刷題練習的人鍛鍊自己Coding的能力。
 支援Python、Java、C++等數種語言，加上大家一起討論、分享程式碼的討論區，即使在解題碰到困難的人也可以依自己的想法找到解題的提示，這是LeetCode這麼盛行的理由之一。
-但使用者絕對不只學生、工程師，舉凡Google、矽谷的各種科技公司在招募工程師時，都會在LeetCode上找適合的人選，因此LeetCode是個平台，擁有完整個面向的使用者。
+在這學期修讀「資料結構演算法」的課程後，發現從前習以為常的排序大小，背後原來經過非常複雜的計算，深刻體會到了人腦和電腦在運算上的不同。因此對於演算法有了一些興趣，在自己的Github建立關於資料結構的空間，紀錄學習的心得和筆記，期待在未來可以持續更新題目的數量，訓練自已的邏輯和思維能力。
 
 # 自我介紹
-
-
-
-
-
-# Repository檔案傳送門 + 懶人包
-Repository內的檔案可以分成三大部分
-
-
+我是銀珮汝，目前就讀東吳大學，雙主修 國際經營與貿易學系 與 巨量資料管理學系，目前因為撞課的關係延畢半年，。
+曾結合Python爬蟲和Line機器人平台，建立兩個能在Line上服務運行的聊天機器人、也曾結合GA架設網站，分析網站使用者的行為...、也曾擔任財報分析課程的助教，協助教授財報比率的計算和選股的研究，大學雖然匆忙但相信自己沒有虛度，期待在未來能結合自己國貿和巨資的所學，想成為一位不被別人取代的人。
 
 
 # 學期作業專區
@@ -28,12 +21,14 @@ Repository內的檔案可以分成三大部分
 
 # Leetcode進度
 
-
-
-# 學期Week1~Week18進度
-
+|                                    Leetcode題目                                    |            簡述           |                                                                       程式碼連結                                                                      |
+|:----------------------------------------------------------------------------------:|:-------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   [147#_Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)   | Insertion Sort_插入排序法 | [147#_Insertion Sort List_04154135.py](https://github.com/agying/leetcode-practices/blob/master/Leetcode/147%23_Insertion%20Sort%20List_04154135.py)  |
+|             [155#_Min Stack](https://leetcode.com/problems/min-stack/)             |         Min Stack         | [155#_Min Stack_04154135](https://github.com/agying/leetcode-practices/blob/master/Leetcode/155%23_Min%20Stack_04154135.py)                           |
+|          [645#_Set Mismatch](https://leetcode.com/problems/set-mismatch/)          |        Set Mismatch       | [645#_Set Mismatch_04154135](https://github.com/agying/leetcode-practices/blob/master/Leetcode/645%23_Set%20Mismatch_04154135.py)                     |
+|        [705#_Design HashSet](https://leetcode.com/problems/design-hashset/)        |           哈希表          | [705#_Design HashSet_04154135](https://github.com/agying/leetcode-practices/blob/master/Leetcode/705%23_Design%20HashSet_04154135.py)                 |
+| [965#_Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) |         單值二叉樹        | [965#_Univalued Binary Tree_04154135](https://github.com/agying/leetcode-practices/blob/master/Leetcode/965%23_Univalued%20Binary%20Tree_04154135.py) |
 
 
 # 課程心得
-
-
+「資料結構演算法」真的是一門非常困難的課程，也是我大學期間第一次每週都像是被黏在電腦前面，絞盡腦汁才能完成每次作業的課程。其實在課程剛開始的時候，常常抱怨老師對於作業的要求很多，每天都很辛苦熬夜的拼命努力卻始終看不見成效，非常沒有成就感。但隨著時間一長，我開始發現自己在思維能力上真的有顯著的進步，看到錯誤也不會心煩變的更有耐心，完成作業後的心情真的很好。很高興這學期能修讀這堂課。
