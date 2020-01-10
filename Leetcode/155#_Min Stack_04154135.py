@@ -5,9 +5,6 @@
 # > Stack(堆疊)具有先進後出的特性，就像平常裝箱時，先裝入箱子的物品直到最後才會被取出
 # #### Leetcode題目位址：https://leetcode.com/problems/min-stack/
 
-# In[31]:
-
-
 class MinStack:
 
     # 先對外宣告stack是一個list
@@ -53,33 +50,28 @@ class MinStack:
 
 # In[32]:
 
-
-stackobj = MinStack()
-stackobj.push(51)
-stackobj.push(4)
-stackobj.push(5)
-stackobj.push(9)
-stackobj
+# stackobj = MinStack()
+# stackobj.push(51)
+# stackobj.push(4)
+# stackobj.push(5)
+# stackobj.push(9)
+# stackobj
 
 
 # In[33]:
 
-
-stackobj.pop()
-stackobj
+# stackobj.pop()
+# stackobj
 
 
 # In[34]:
 
-
 # 在stack中如同盤子堆疊，先進後出，最上面的盤子是最晚被放上去的
-stackobj.top()
+# stackobj.top()
 
 
 # In[35]:
-
-
-stackobj.getMin()
+# stackobj.getMin()
 
 
 # #### Submissions_結果
