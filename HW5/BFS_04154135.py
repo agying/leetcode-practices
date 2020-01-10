@@ -85,22 +85,3 @@ class Graph:
             stat2 = []
         
         return self.ans
-
-
-# In[2]:
-
-
-g = Graph()
-g.addEdge(0, 1)
-g.addEdge(0, 2)
-g.addEdge(1, 2)
-g.addEdge(2, 0)
-g.addEdge(2, 3)
-g.addEdge(3, 3)
-
-print(g.BFS(1))
-print(g.BFS(2))
-print('-------------------------------------------------------------')
-print(g.DFS(1))
-print(g.DFS(2))
-
